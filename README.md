@@ -1,6 +1,5 @@
 Torgeir Oliver Tislevoll
 
-Curently employed at OneSubsea, Schlumberger i Bergen Norway. 
-Wide knowledge with Python (Pydantic, pandas), C, C++, HVAC Automation and PLS (Allen Bradley)
+Curently employed at Siemens Digital Industries.
 
-Interested in and in the process of learning blockchain development 
+Knowledge with Python, .NET, C#, AWS, Cloud Foundry, MachineLearning (using tensorflow, sklearn) Docker, API's, PLC (allen bradley and Siemens S7), javascript, React, Flutter 
